@@ -1,0 +1,14 @@
+html, body {
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+.top-image {
+  background-image: url("img/esports_2.jpg");
+  background-size: cover;
+  padding: 300px 0 300px 0;
+  font-size: 8vw;
+}
+/*# sourceMappingURL=esports.css.map */
